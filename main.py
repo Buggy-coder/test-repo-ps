@@ -1,3 +1,5 @@
-hi1
-hii2
-hiii3
+num1=10
+
+num2=12
+
+print(num1+num2)
